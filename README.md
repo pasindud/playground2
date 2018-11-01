@@ -11,7 +11,7 @@
 
     ### Male (jvm)
     - Wavs: [gs://voice-builder-public-data/all_example_data/data/jv_id_male/jv_id_male.tar.gz](http://storage.googleapis.com/voice-builder-public-data/all_example_data/data/jv_id_male/jv_id_male.tar.gz)
-    - Wavs info file: gs://voice-builder-public-data/all_example_data/linguistics_data/jv/jvm.txt.done.data
+    - Wavs info file: [gs://voice-builder-public-data/all_example_data/linguistics_data/jv/jvm.txt.done.data
     
     ### Female (jvf)
     

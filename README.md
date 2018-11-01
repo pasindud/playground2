@@ -4,8 +4,6 @@
 - [Bengali (bangladesh)](#bengali-bangladesh)
 - [Nepali](#nepali)
 
-http://storage.googleapis.com/voice-builder-public-data/all_example_data/data/jv_id_male/jv_id_male_lines.tsv
-
 ## Javaneses
 
 - Lexicon: [gs://voice-builder-public-data/all_example_data/linguistics_data/jv/lexicon.scm](http://storage.googleapis.com/voice-builder-public-data/all_example_data/linguistics_data/jv/lexicon.scm)

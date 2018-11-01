@@ -13,7 +13,7 @@ http://storage.googleapis.com/voice-builder-public-data/all_example_data/data/jv
 
     ### Male (jvm)
     - Wavs: [gs://voice-builder-public-data/all_example_data/data/jv_id_male/jv_id_male.tar.gz](http://storage.googleapis.com/voice-builder-public-data/all_example_data/data/jv_id_male/jv_id_male.tar.gz)
-    - Wavs info file: [gs://voice-builder-public-data/all_example_data/linguistics_data/jv/jvm.txt.done.data](gs://voice-builder-public-data/all_example_data/linguistics_data/jv/jvm.txt.done.data)
+    - Wavs info file: [gs://voice-builder-public-data/all_example_data/linguistics_data/jv/jvm.txt.done.data](http://voice-builder-public-data/all_example_data/linguistics_data/jv/jvm.txt.done.data)
     
     ### Female (jvf)
     
@@ -69,9 +69,3 @@ http://storage.googleapis.com/voice-builder-public-data/all_example_data/data/jv
     - Wavs: [gs://voice-builder-public-data/all_example_data/data/ne_np_female/ne_np_female.tar.gz](http://storage.googleapis.com/voice-builder-public-data/all_example_data/data/ne_np_female/ne_np_female.tar.gz)
     - Wavs info file: [gs://voice-builder-public-data/all_example_data/linguistics_data/ne/txt.done.data](http://storage.googleapis.com/voice-builder-public-data/all_example_data/linguistics_data/ne/txt.done.data)
     
-
-
-
-
-
-
